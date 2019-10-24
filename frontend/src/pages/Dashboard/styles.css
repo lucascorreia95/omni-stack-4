@@ -56,3 +56,20 @@ ul.notifications li button.accept {
 ul.notifications li button.reject {
     color: #e55e5e;
 }
+
+.link-logout {
+  display: block;
+  text-align: right;
+}
+
+.btn-logout {
+  border: 0;
+  border-radius: 2px;
+  width: 75px;
+  height: 25px;
+  font-size: 16px;
+  font-weight: bold;
+  background: #f05a5b;
+  color: #fff;
+  cursor: pointer;
+}
